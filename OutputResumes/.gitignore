@@ -1,0 +1,5 @@
+# Ignore all generated resumes and outputs
+*
+
+# Keep this file
+!.gitignore
