@@ -1,0 +1,5 @@
+# Ignore all generated briefing notes
+*
+
+# Keep this file
+!.gitignore
