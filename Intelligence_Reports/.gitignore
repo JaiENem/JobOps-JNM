@@ -1,0 +1,6 @@
+# Ignore all generated intelligence reports
+*
+
+# Keep example and this file
+!EXAMPLE_*.md
+!.gitignore
